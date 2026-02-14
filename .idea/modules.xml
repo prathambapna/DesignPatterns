@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" filepath="$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/intellij.iml" filepath="$PROJECT_DIR$/intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observerDesignPattern/observerDesignPattern.iml" filepath="$PROJECT_DIR$/observerDesignPattern/observerDesignPattern.iml" />
     </modules>
   </component>
 </project>
