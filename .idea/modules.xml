@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" filepath="$PROJECT_DIR$/AdapterDesignPattern/AdapterDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainResponsibilityPattern/ChainResponsibilityPattern.iml" filepath="$PROJECT_DIR$/ChainResponsibilityPattern/ChainResponsibilityPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" filepath="$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" filepath="$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" filepath="$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" />
