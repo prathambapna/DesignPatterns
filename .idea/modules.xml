@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" filepath="$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" filepath="$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" filepath="$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PaymentGateway/PaymentGateway.iml" filepath="$PROJECT_DIR$/PaymentGateway/PaymentGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" filepath="$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" filepath="$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateDesignPattern/TemplateDesignPattern.iml" filepath="$PROJECT_DIR$/TemplateDesignPattern/TemplateDesignPattern.iml" />
