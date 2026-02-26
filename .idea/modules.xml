@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ChainResponsibilityPattern/ChainResponsibilityPattern.iml" filepath="$PROJECT_DIR$/ChainResponsibilityPattern/ChainResponsibilityPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" filepath="$PROJECT_DIR$/CompositeDesignPattern/CompositeDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiscountCoupon/DiscountCoupon.iml" filepath="$PROJECT_DIR$/DiscountCoupon/DiscountCoupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" filepath="$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" filepath="$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" filepath="$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaymentGateway/PaymentGateway.iml" filepath="$PROJECT_DIR$/PaymentGateway/PaymentGateway.iml" />
