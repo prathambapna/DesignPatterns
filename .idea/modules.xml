@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" filepath="$PROJECT_DIR$/ProxyDesignPattern/ProxyDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" filepath="$PROJECT_DIR$/SingletonDesignPattern/SingletonDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Splitwise/Splitwise.iml" filepath="$PROJECT_DIR$/Splitwise/Splitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" filepath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateDesignPattern/TemplateDesignPattern.iml" filepath="$PROJECT_DIR$/TemplateDesignPattern/TemplateDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/commandDesignPattern/commandDesignPattern.iml" filepath="$PROJECT_DIR$/commandDesignPattern/commandDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" filepath="$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" />
