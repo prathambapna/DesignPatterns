@@ -1,0 +1,24 @@
+Imagine you are building a system to manage a Zoo. You have a stable hierarchy of classes representing different animals: Lion, Penguin, and Dolphin.
+
+Over time, your boss asks you to add new behaviors to these animals:
+
+First, they need a feed() method.
+
+Next week, they need a checkHealth() method.
+
+Next month, they need an exportToJson() method for a new database.
+
+If you keep adding these methods to the Animal classes, the classes become bloated, violating the Single Responsibility Principle. 
+Furthermore, every time you add a new behavior, you risk breaking existing code because you have to modify every single animal class.
+
+The Solution: The Visitor Pattern
+The Visitor pattern suggests moving these operational behaviors out of the Animal classes and into a separate class called a Visitor.
+
+Instead of the Lion knowing how to export itself to JSON, or how a Vet checks its health, the Lion just needs to know one simple thing: How to accept a visitor.
+
+The "Secret Sauce": Double Dispatch
+The magic of the Visitor pattern relies on a concept called Double Dispatch. It means the method that gets executed depends on two things:
+
+The type of the Visitor (e.g., is it a Vet or a DataExporter?)
+
+The type of the Element being visited (e.g., is it a Lion or a Penguin?)
