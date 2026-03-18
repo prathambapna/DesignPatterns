@@ -1,0 +1,20 @@
+The Core Problem
+Imagine a busy airport. If every pilot had to talk directly to every other pilot in the sky to figure out who is landing next, 
+it would be a disaster. In software, we call this "spaghetti code"—when UI components (like a button, a checkbox, and a text field) 
+or microservices all hold direct references to each other and call each other's methods.
+
+When everything is tightly coupled like this, changing one class forces you to change several others,
+and reusing a class in a different part of the app becomes impossible.
+
+The Solution: The Air Traffic Controller
+The Mediator pattern solves this by introducing an Air Traffic Control (ATC) tower.
+The planes (your objects) do not talk to each other. They only talk to the ATC tower (the Mediator). 
+The tower knows the status of all planes and routes the messages accordingly.
+
+The Three Pillars (Structure)
+The Mediator: An interface that declares the communication methods (usually just a notify() or send() method).
+
+The Concrete Mediator: The actual "hub" (the ATC tower). It holds references to all the components and contains the routing logic.
+
+The Components (Colleagues): The independent objects (the planes). They only have a reference to the Mediator interface. 
+They don't know the concrete classes of the other components.
