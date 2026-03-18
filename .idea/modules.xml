@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" filepath="$PROJECT_DIR$/StateDesignPattern/StateDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateDesignPattern/TemplateDesignPattern.iml" filepath="$PROJECT_DIR$/TemplateDesignPattern/TemplateDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/TicTacToeGame/TicTacToeGame.iml" filepath="$PROJECT_DIR$/TicTacToeGame/TicTacToeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisitorDesignPattern/VisitorDesignPattern.iml" filepath="$PROJECT_DIR$/VisitorDesignPattern/VisitorDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/commandDesignPattern/commandDesignPattern.iml" filepath="$PROJECT_DIR$/commandDesignPattern/commandDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" filepath="$PROJECT_DIR$/decoratorPattern/decoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/intellij.iml" filepath="$PROJECT_DIR$/intellij.iml" />
