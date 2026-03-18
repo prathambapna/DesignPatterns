@@ -1,0 +1,19 @@
+What is the Memento Pattern?
+The Memento pattern is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
+
+The Core Problem: Let's say you are building a text editor. 
+To implement an "undo" feature, you need to record the state of the editor before every change. 
+The Solution: The Memento pattern delegates the creation of the state snapshots to the actual owner of that state. 
+It introduces three distinct roles to keep things clean and secure.
+
+The Three Pillars (Structure)
+The Originator: This is the object whose state is changing (e.g., the Text Editor). 
+It is the only object that knows how to create a snapshot of its internal state and how to restore its state from a given snapshot.
+
+The Memento: This is a simple value object that acts as a snapshot of the Originator's state. 
+It acts as a "black box"—other objects can hold onto it, but they cannot read or alter the data inside it.
+Only the Originator that created it can access its contents.
+
+The Caretaker: This object keeps track of the Mementos (e.g., the Undo/Redo manager). 
+It knows when to capture the Originator's state and when to restore it.
+It typically stores Mementos in a stack or a list, but it never modifies or examines the Memento itself.
