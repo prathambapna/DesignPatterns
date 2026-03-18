@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/DiscountCoupon/DiscountCoupon.iml" filepath="$PROJECT_DIR$/DiscountCoupon/DiscountCoupon.iml" />
       <module fileurl="file://$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" filepath="$PROJECT_DIR$/InventoryManagement/InventoryManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorDesignPattern/IteratorDesignPattern.iml" filepath="$PROJECT_DIR$/IteratorDesignPattern/IteratorDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" filepath="$PROJECT_DIR$/MediatorDesignPattern/MediatorDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MomentoDesignPattern/MomentoDesignPattern.iml" filepath="$PROJECT_DIR$/MomentoDesignPattern/MomentoDesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" filepath="$PROJECT_DIR$/MusicPlayerSystem/MusicPlayerSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" filepath="$PROJECT_DIR$/NotificationSystem/NotificationSystem.iml" />
