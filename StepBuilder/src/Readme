@@ -1,0 +1,14 @@
+The biggest flaw of the Simple Builder is that it cannot enforce required parameters at compile-time. 
+A developer could accidentally call .build() without setting a mandatory field, causing a runtime crash.
+
+The Step Builder solves this by forcing the developer through a strict sequence of steps using interfaces.
+
+How it works: Each configuration step returns a different interface that only contains the method for the next step.
+You literally cannot call .build() until you have navigated through all the required interfaces.
+
+The Goal: Compile-time safety. Guiding the developer step-by-step so they cannot possibly build an invalid object.
+
+The Vibe: "An installation wizard. You cannot click 'Next' until you fill out the current page."
+
+You have strict required parameters and want the compiler to enforce the configuration order.
+Returns interfaces instead of the builder itself.
