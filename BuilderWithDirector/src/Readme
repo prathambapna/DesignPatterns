@@ -1,0 +1,2 @@
+How it works: You introduce a Director class. The client code doesn't build the object step-by-step. 
+Instead, the client passes a Builder to the Director, and the Director executes a predefined set of instructions.
