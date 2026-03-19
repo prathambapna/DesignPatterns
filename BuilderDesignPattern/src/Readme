@@ -1,0 +1,9 @@
+The Core Problem: The Telescoping Constructor
+Imagine you are writing a program to build custom desktop computers. 
+A computer has a few required components (CPU, RAM) and many optional components (Dedicated GPU, Bluetooth, Water Cooling, RGB Lighting).
+
+Without a Builder, you usually end up with a "telescoping constructor"—a massive, overloaded list of constructors to handle every possible combination:
+
+The Solution: The Builder Pattern
+The Builder pattern solves this by extracting the object construction code out of the main class and moving it into a separate Builder object. 
+Instead of passing everything at once, you call specific, clearly named methods step-by-step.
